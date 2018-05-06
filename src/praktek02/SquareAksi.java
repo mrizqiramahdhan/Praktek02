@@ -1,6 +1,8 @@
 package praktek02;
 public class SquareAksi {
     public static void main(String[] args) {
-        Square S1 = new Square();
+        Square s1 = new Square();
+        s1.sisi = 4;
+        s1.luas = 16;
     }           
 }
