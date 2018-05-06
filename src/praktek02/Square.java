@@ -15,4 +15,8 @@ public class Square {
         keliling=sisi*luas;
         return keliling;
     }
+    
+    void cetakKeliling(){
+        System.out.println("Kelilingnya adalah: "+hitungKeliling());
+    }
 }
