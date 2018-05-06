@@ -3,7 +3,7 @@ public class Square {
     double sisi;
     double luas;
 
-    public Square() {\
+    public Square() {
         sisi=4;
         luas=9;
     }
