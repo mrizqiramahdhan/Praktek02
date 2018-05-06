@@ -6,5 +6,6 @@ public class SquareAksi {
         s1.luas = 16;
         
         s1.cetakInfo();
+        System.out.println("Keliling Square = "+s1.hitungKeliling());
     }           
 }
