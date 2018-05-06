@@ -2,6 +2,11 @@ package praktek02;
 public class Square {
     double sisi;
     double luas;
+
+    public Square() {\
+        sisi=4;
+        luas=9;
+    }
     
     void cetakInfo(){
         System.out.println("==============");
